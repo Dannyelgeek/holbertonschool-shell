@@ -1,2 +1,2 @@
 #!/bin/bash
-/0x00-shell_basics
+echo /0x0-shell_basics
