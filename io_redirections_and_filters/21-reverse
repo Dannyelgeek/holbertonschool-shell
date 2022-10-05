@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "reverse" | rev
+echo /etc/ssh/sshd_config | rev
