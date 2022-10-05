@@ -1,2 +1,2 @@
 #!/bin/bash
-grep '^[[:upper:]]' /etc/ssh/ssdhd_config 
+grep '^[[:alpha:upper:]]' /etc/ssh/ssdhd_config 
